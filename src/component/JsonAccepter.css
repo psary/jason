@@ -1,0 +1,8 @@
+.json-accepter{
+    width: 100%
+}
+
+.json-accepter-container{
+    margin: 10px;
+    flex: 1 1 100%;
+}
